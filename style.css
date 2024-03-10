@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+.grid{
+    height: 606px;
+    width: 606px;
+    /* border: 1px solid black; */
+    display: flex;
+    flex-wrap: wrap;
+}
+.square{
+    height: 200px;
+    width:200px;
+    border: 1px solid black;
+}
+.headings{
+    margin: 100px;
+}
+.mole{
+    background-color: blueviolet;
+}
